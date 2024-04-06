@@ -1,0 +1,8 @@
+![](https://raw.githubusercontent.com/ssambender/swingDesign/main/0-min.png)
+![](https://raw.githubusercontent.com/ssambender/swingDesign/main/1-min.png)
+![](https://raw.githubusercontent.com/ssambender/swingDesign/main/2-min.png)
+![](https://raw.githubusercontent.com/ssambender/swingDesign/main/3-min.png)
+![](https://raw.githubusercontent.com/ssambender/swingDesign/main/4-min.png)
+![](https://raw.githubusercontent.com/ssambender/swingDesign/main/5-min.png)
+![](https://raw.githubusercontent.com/ssambender/swingDesign/main/%23%20tangled%20swing%20done%20w%20outlinepng-min.png)
+![](https://raw.githubusercontent.com/ssambender/swingDesign/main/blueprint-min.png)
